@@ -9,3 +9,13 @@ open bot game -> right click -> inspect -> application -> session storage -> tgw
 # Paste Query in query.txt with Format
   query_id : query_id=xx&user=xx&auth_date=xx&hash=xx
   user_id : user_id=xx&user=xx&auth_date=xx&hash=xx
+
+# Installation
+- git clone https://github.com/DonsPabloXYZ/FINTOPIO
+- pip install -r requirements.txt
+- python app.py
+
+# Disclaimer
+This tool is designed to automate actions on the Fintopio platform. Use at your own risk. The author is not responsible for any issues arising from the use of this tool, including but not limited to account bans, rate limits, or unintended behavior.
+
+DWYOR: Do Your Own Research before using any automation tools on third-party platforms.
