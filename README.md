@@ -19,3 +19,7 @@ open bot game -> right click -> inspect -> application -> session storage -> tgw
 This tool is designed to automate actions on the Fintopio platform. Use at your own risk. The author is not responsible for any issues arising from the use of this tool, including but not limited to account bans, rate limits, or unintended behavior.
 
 DWYOR: Do Your Own Research before using any automation tools on third-party platforms.
+
+# Follow For Support
+@ShyzagoBroadcast
+@kelasmalamairdrop
