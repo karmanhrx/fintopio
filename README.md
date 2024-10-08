@@ -21,5 +21,5 @@ This tool is designed to automate actions on the Fintopio platform. Use at your 
 DWYOR: Do Your Own Research before using any automation tools on third-party platforms.
 
 # Follow For Support
-@ShyzagoBroadcast
-@kelasmalamairdrop
+[@ShyzagoBroadcast](https://t.me/ShyzagoBroadcast)
+[@kelasmalamairdrop](https://t.me/kelasmalamairdrop)
